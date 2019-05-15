@@ -22,9 +22,9 @@ Each has it's own strengths: but we aware that all staff recieve high volumes of
 
 The following diagram describes the best way of getting a question about the course or a module answered...
 
-![](../static/commsflow.png)
+![](static/commsflow.png)
 
-<!-- note this file is generated from ../static/commsflow.xml which
+<!-- note this file is generated from static/commsflow.xml which
 can be edited with https://www.draw.io or the desktop version of that app -->
 
 ### Face to face {#office-hours}
@@ -37,7 +37,7 @@ To find your tutor or other members of, the may below may be helpful:
 
 \index{Staff offices}
 \index{Map of academic staff offices}
-[![Map of staff offices in Portland Square (PSQ) ](../static/FindMyTutor_plain.png){#map-of-staff-offices} Click to enlarge...](../static/FindMyTutor_plain.png)
+[![Map of staff offices in Portland Square (PSQ) ](static/FindMyTutor_plain.png){#map-of-staff-offices} Click to enlarge...](static/FindMyTutor_plain.png)
 
 <!-- NOTE this map is created from code hosted here by Jon May:
 https://github.com/PlymouthPsychology/floorplan
@@ -45,7 +45,7 @@ https://github.com/PlymouthPsychology/floorplan
 
 ### If you are unhappy, or are not getting answers
 
-![](../static/second_2x.png){.xkcd}
+![](static/second_2x.png){.xkcd}
 
 If you have not received a satisfactory answer, or have not recieved a response, please contact:
 

@@ -1,16 +1,12 @@
 # "You said...; we did..."
 
-![](../static/YouSaidWeDid2018.png)
-
-
-
+![](static/YouSaidWeDid2018.png)
 
 ## External examiners' reports
 
 <!-- XXX TODO -->
 
-
 External examiners reports for recent years are listed below:
 
-- [2017](ee/2017.pdf) 
-- [2016](ee/2016.pdf) 
+-   [2017](ee/2017.pdf)
+-   [2016](ee/2016.pdf)

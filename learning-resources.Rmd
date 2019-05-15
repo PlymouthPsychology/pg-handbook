@@ -86,7 +86,7 @@ Chris Berry coordinates the MSc PRM and acts as personal tutor to all students o
 
 ### Student technical support (computing)
 
-![](../static/tech_support_cheat_sheet.png){.xkcd}
+![](static/tech_support_cheat_sheet.png){.xkcd}
 
 The university offers numerous IT systems and offers support to students. Find out more on the IT services webpages (<https://goo.gl/Qhl8cz>), email <libraryandITenquiries@plymouth.ac.uk> or call 01752 588588 to report a fault.
 

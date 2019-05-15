@@ -1,6 +1,6 @@
 ### Welcome
 
-![](../static/s200_timhollins.jpg){.thumbnail}
+![](static/s200_timhollins.jpg){.thumbnail}
 
 Welcome to your MSc at Plymouth University. For you, this year is the start of a fascinating intellectual journey to the heart of psychology.
 

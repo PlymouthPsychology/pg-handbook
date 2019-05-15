@@ -108,4 +108,4 @@ A message from the Chair:
 
 ## Campus Maps
 
-![Campus Map](../static/campusmap.png)
+![Campus Map](static/campusmap.png)

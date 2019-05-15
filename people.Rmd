@@ -59,4 +59,4 @@ Full details of all school staff are on the University website here: <https://go
 TODO ADD LISTS PEOPLE HERE FROM WAM... EVERYONE WHO IS ON MSC MODULE
 
 To find a member of staff you can use the staff office map below:
-![](../static/FindMyTutor.png)
+![](static/FindMyTutor.png)

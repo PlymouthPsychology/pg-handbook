@@ -20,7 +20,7 @@ The calendar on the following page shows the academic year.
 
 The calendar also shows university week numbers, e.g. welcome week is week 8. Official timetables, module outlines, and other university documents may refer to these week numbers.
 
-![](../static/UniversityWeeks.png)
+![](static/UniversityWeeks.png)
 
 ## Timetables {#timetable}
 
@@ -46,4 +46,4 @@ XXX TODO ADD DEADLINES```
 
 ---
 
-![](../static/students.png)
+![](static/students.png)

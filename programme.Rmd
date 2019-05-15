@@ -21,7 +21,7 @@ _Professionalism and professional identity_. We organise the academic year such 
 The Student Charter is an agreement between the University, the Students’ Union, and the student body. It sets out the expectations that you should have of the University, and also the expectations we have of you. For instance, you can expect that we will provide you with a challenging and invigorating curriculum, and we expect you to take an active role in your learning.
 We hope the charter provides a useful framework for both staff and students.
 
-![](../static/charter-00.png)
+![](static/charter-00.png)
 
 You can find it here: https://www.plymouth.ac.uk/your-university/student-charter
 
@@ -135,7 +135,7 @@ The University also has specific policies on attendance and engagement for overs
 
 \index{Cancelled classes}
 
-[![](../static/scheduling_conflict_2x.png){.xkcd}](../static/scheduling_conflict_2x.png)
+[![](static/scheduling_conflict_2x.png){.xkcd}](static/scheduling_conflict_2x.png)
 
 If a class has to be cancelled, we contact you as early as possible, usually via email. Sometimes lecturers become unavailable (e.g. sudden illness) without much notice. When this happens, please help us by using your own contact networks to share information with other students. We will often provide a replacement class for any that is cancelled, or rearrange teaching so that all essential material is covered.
 
