@@ -6,7 +6,7 @@ Assessment is an important component of the programme, and feedback is vital for
 
 All assessment on the PRM is based upon coursework, and we have no formal examinations. Coursework is tailored to the needs of individual modules. Modules may have several coursework components which make up the total assessment.
 
-![](../static/scantron.png)
+![](static/scantron.png)
 
 Assessment is a complex topic, but this section attempts to distill some of the key information which students need to understand how their work is assessed on the MSc and MPsych courses at Plymouth, including:
 
@@ -52,7 +52,7 @@ Before submitting work, you might like to use the following checklist.
 
 ### Coursework cover sheet {#cover-sheet}
 
-> The MSc coursework cover sheet is available here: [masters_coursework_template.dotx](../static/templates/masters_coursework_template_2018_v1.dotx)
+> The MSc coursework cover sheet is available here: [masters_coursework_template.dotx](static/templates/masters_coursework_template_2018_v1.dotx)
 
 This coversheet includes a section in which you can write your reflections on your own work. You need to:
 
@@ -107,7 +107,7 @@ There will also be grade deductions if you submit work which does not conform to
 
 ### Converting to PDF
 
-See: [How to save your work as a PDF](../static/how-to-save-pdf.pdf)
+See: [How to save your work as a PDF](static/how-to-save-pdf.pdf)
 
 Also:
 
@@ -319,7 +319,7 @@ Presentations are typically given twice (to separate markers) or recorded for se
 
 This is an example of a presentation marking proforma, which indicates the characteristics markers will be looking for:
 
--   [![Presentation marking proforma](../static/MScpresentationmarkingformexample.png)](../static/MScpresentationmarkingformexample.pdf)
+-   [![Presentation marking proforma](static/MScpresentationmarkingformexample.png)](static/MScpresentationmarkingformexample.pdf)
 
 ### Referencing guidelines {#referencing}
 
@@ -459,7 +459,7 @@ The university also publishes an A-Z guide to terms used around the university, 
 
 ### School prizes
 
-[![](../static/small_fruit-machine.jpg){.xkcd}](../static/small_fruit-machine.jpg)
+[![](static/small_fruit-machine.jpg){.xkcd}](static/small_fruit-machine.jpg)
 
 The School of Psychology awards various prizes for academic achievement at the end of each academic year. The decision to award a prize is taken by the Award Assessment Board and their decision is final. You will be informed if you have won a prize.
 
