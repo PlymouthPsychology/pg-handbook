@@ -2,4 +2,8 @@ Package: pg-handbook
 Type: Book
 Title: Student Handbooks
 Version: 0.0.1
-Imports: bookdown, tidyverse
+Imports: 
+    bookdown, 
+    tidyverse,
+    pander,
+    
