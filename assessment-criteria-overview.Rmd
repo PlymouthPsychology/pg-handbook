@@ -1,0 +1,249 @@
+---
+title: Masters Assessment Criteria
+date: "2016/7"
+output:
+  tufte::tufte_handout:
+# bibliography: ../references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=F, include=T, cache=F, warning=F, messages=F)
+options(digits=2)
+library('dplyr')
+library('pander')
+```
+
+
+Assessing your learning is an important component of the programme. Assessment is a complex topic, but this document attempts to distill some of the key information which students need to understand how their work is assessed on the MSc and MPsych courses at Plymouth, including:
+
+
+- 'Level descriptors': These are broad descriptions of what is expected from students on each type of course
+
+- Learning outcomes and assessment criteria
+
+- Marking schemes, grade boundaries
+
+- Marking and moderation processes
+
+
+
+\clearpage
+
+
+# Credit level descriptors
+
+Credit level descriptors define the level of complexity, relative demand and autonomy expected of a learner on completion of a unit or programme of learning. They provide a description of levels of learning through a hierarchy of knowledge and skills, and the characteristics and context of learning expected.  Specific learning outcomes and assessment criteria can be derived from level descriptors.
+
+
+There are 8 'levels' within the scheme used in the UK ^[See the [SEEC level descriptors document](http://www.bbk.ac.uk/linkinglondon/resources/apel-credit-resources/pub_Jan2003_SEEC_CreditLevelDescriptors.pdf)] and masters courses, including the PRM and final year of the MPsych, are at level 7. These are organised under the following headings, and describe things that you (the learner) should demonstrate in your coursework and conduct on the course:
+
+
+## Development of Knowledge and Understanding
+
+The Learner...
+
+Knowledge base
+: ...has depth and systematic understanding of knowledge in specialised/applied areas and/across areas and can work with theoretical/research-based knowledge at the forefront of their academic discipline.
+
+Ethical issues
+: ...has the awareness and ability to manage the implications of ethical dilemmas and work pro-actively with others to formulate solutions.
+
+Disciplinary methodologies
+: ...has a comprehensive understanding of techniques/methodologies applicable to their own work (theory or research-based).
+
+
+
+
+## Cognitive and Intellectual Skills
+
+The Learner...
+
+Analysis
+: ...with critical awareness can undertake analysis of complex, incomplete or contradictory areas of knowledge communicating the outcome effectively.
+
+Synthesis
+: ...with critical awareness, can synthesise information in a manner that may be innovative, utilising knowledge or processes from the forefront of the discipline/practice.
+
+Evaluation
+: ...has a level of conceptual understanding that will allow her/him critically to evaluate research, advanced scholarship and methodologies and argue alternative approaches.
+
+Application
+: ...can demonstrate initiative and originality in problem solving. Can act autonomously in planning and implementing tasks at a professional or equivalent level, making decisions in complex and unpredictable situations.
+
+
+## Key/Transferable Skills
+
+The Learner...
+
+
+Group working
+: ...can work effectively with a group as leader or member. Can clarify tasks and make appropriate use of the capacities of group members. Is able to negotiate and handle conflict with confidence.
+
+Learning resources
+: ...is able to use full range of learning resources.
+
+Self evaluation
+: ...is reflective on own and others’ functioning in order to improve practice.
+
+Management of information
+: ...can competently undertake research tasks with minimum guidance.
+
+Autonomy
+: ...is an independent and self critical learner, guiding the learning of others and managing own requirements for continuing professional development.
+
+Communications
+: ...can engage confidently in academic and professional communication with others, reporting on action clearly, autonomously and competently
+
+Problem solving
+: ...has independent learning ability required for continuing professional study, making professional use of others where appropriate.
+
+
+## Practical Skills
+
+The Learner...
+
+Application of skills
+: ... can operate in complex and unpredictable and/or specialised contexts, and has an overview of the issues governing good practice.
+
+Autonomy in skill use
+: ...is able to exercise initiative and personal responsibility in professional practice.
+
+Technical expertise
+: ...has technical expertise, performs smoothly with precision and
+effectiveness; can adapt skills and design or develop new skills and/or procedures for new situations.
+
+
+
+
+
+
+
+\clearpage
+
+
+# Translating level descriptors into learning outcomes and assessment criteria.
+
+There are a range of different types of assignments used on Masters’  modules.  For example, your coursework might include:
+
+- Oral presentations
+- Statistical exercises
+- Essays
+- Grant applications
+- Professional reports
+- Group work
+
+Module outlines identify the learning outcomes expected of students and, when setting assessments, staff are encouraged to give clear guidance on what is required. The assessments set will relate to the learning outcomes and enable you to demonstrate the abilities described in the level descriptors.
+
+
+
+\clearpage
+
+
+
+# Marking and moderation procedures
+
+
+## Categorical and percentage marking
+
+Across the school, all coursework in the school is marked on a categorical grade system, ranging from A+ to F-.  Each letter grade category is associated with a particular percentage mark (see table) which is used to calculate the overall degree mark. *The pass mark for postgraduate courses is set at 50%*
+
+\tiny
+
+```{r, include=T}
+letters_ <- c('A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C', 'C-', 'D+', 'D', 'D-', 'F+', 'F', 'F-')
+lettergrades <- c(100, 88, 77, 68, 65, 62, 58, 55, 52, 48, 45, 42, 38, 25, 15)
+data_frame(`Letter grade`=letters_, `%`=lettergrades) %>% pander
+```
+
+\normalsize
+
+
+Our experience is that using categorical grades helps markers to remember to use the full range of the marking scale.  When using only percentage marks, markers are often reluctant to award marks over 90%, for example. Using the full range of the scale helps us identify and reward students achieving at a very high level.
+
+
+## Mapping between level descriptors and grade boundaries
+
+We find that it is useful for students to have a general guide as to the standards expected for work at each level of attainment on the MSc and MPsych degrees. Note that although different terminology is used (e.g. Distinction vs. First class award) these award categories overlap across the programmes
+
+
+## Distinction (MSc) or First class award (MPsych): >=70%, grades A- to A+
+
+At this level students should submit work which is:
+
+- Comprehensive and accurate  coverage of relevant material.
+- Demonstrates critical evaluation; clarity of  argument; integration of material.
+- Insight into theoretical issues and, where appropriate,
+- Originality in exposition and treatment.
+- There should be only very minor omissions, inaccuracies, or defects of presentation.
+
+
+## Merit (MSc) or 2:1 (MPsych):  60-69%, grades B- to B+
+
+Students will produce work that is:
+
+- Accurate, relevant and informed, with good insight
+- Shows only minor omissions and inaccuracies
+- May include less comprehensive theoretical analysis than merits a distinction.
+
+
+## Pass (MSc) or 2:2 (MPsych): 50%-59%, grades C- to C+)
+
+Coursework will be
+
+- Generally accurate, relevant and  well informed.
+- Reasonably comprehensive
+- Well organised and structured.
+- Have generally clear presentation, with some critical evaluation and understanding shown.
+
+However work may also have:
+
+- Some omissions and errors.
+- Limited understanding or errors in some places.
+- Arguments which are not fully developed, or which fail to address the question.
+
+
+## Fail (< 50%, grades D+ and below)
+
+- Fails to address question or purpose of assessment directly ^[This is incredibly common in the work of weaker students, and failing to address the question as posed is probably the primary cause of work being awarded a low-pass or fail.]
+- Provides cursory coverage of relevant material.
+- Contains  significant inaccuracies.
+- Arguments poorly developed
+- Assertions unsupported by  evidence.
+- Poor organisation  and style.
+
+
+\clearpage
+
+
+## Moderation and second marking
+
+All grades awarded to masters coursework are either peer-moderated or second marked, which involves the following steps:
+
+Peer moderation
+: The first marker (normally the person who set the work) provides a small sample of coursework to a colleague for independent second marking, normally 6 scripts. The two markers compare the grades they have awarded to this sample and discuss any inconsistencies. Once satisfied that marks are being awarded consistently and at the correct level, the first marker continues to mark coursework from the rest of the cohort in the same fashion.
+
+Second marking
+: This applies primarily to project reports. Here the first marker provides feedback for the student, and awards a grade. A second marker also reads the report and awards a second independent mark. Both markers meet to discuss the grade, and where inconsistencies arise these are resolved by discussion, or with reference to the programme leader if no agreement can be found (this is rare).
+
+
+External examiners
+: In addition, all coursework and marking is validated by our external examiner — an independent academic from a different university appointed to uphold standards on our degree programmes. The external examiner will check samples of coursework from across the degree to ensure standards are properly applied, work is marked fairly and that suitable feedback is provided. For this reason, grades awarded during the year are not final and may be subject to amendment by subject examination committees.
+
+\newthought{If you have a question about a grade} you have been awarded, in the first instance contact the module leader to discuss it^[e.g. during their office hours]. It would be helpful to bring a copy of the work and feedback you have received, and to highlight any areas of concern. In most cases the module leader will be able to explain the mark awarded or, where an error has occurred, correct the mark immediately.
+
+
+
+
+
+
+
+
+# Relevant university regulations
+
+The University has many complex rules and regulations which relate to postgraduate and undergraduate-masters programmes. Most of the time you will not need to study the detail of these. However, a copy of the Plymouth University regulatory framework for taught post-graduate awards is available online at: <The full University assessment regulations can be found at: https://goo.gl/7uE51O>
+
+The full University assessment regulations can be found at: https://goo.gl/jMYVTu
+
+However, if you have a question about the regulations it might be better to contact Karen Barnett in the first instance.
+
+

@@ -1,0 +1,19 @@
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\usepackage{fontspec}
+\usepackage{mathpazo}
+\setmainfont
+     [ BoldFont       = texgyrepagella-bold.otf ,
+       ItalicFont     = texgyrepagella-italic.otf ,
+       BoldItalicFont = texgyrepagella-bolditalic.otf ]
+     {texgyrepagella-regular.otf}
+
+\usepackage{makeidx}
+\makeindex

@@ -1,0 +1,111 @@
+# Help and support
+
+## Technical support
+
+Both the school and university offers technical support for University software and systems. You may also be able to get help with your personal computer or laptop.
+
+The key resources available to you are:
+
+-   [The University technical support service](#tech-support) (for most problems)
+
+-   [The school tech office](#techoffice) (for issues related to labs and experimental software)
+
+## University support services
+
+## The Student Handbook
+
+Details on the standard University academic regulations can be found at this link:
+
+https://www.plymouth.ac.uk/your-university/governance/student-handbook
+
+## Learning Support
+
+### The Writing Café:
+
+The Writing Café is a welcoming and purposeful space where you can explore techniques and strategies to improve your writing 4th floor Babbage Building Email: <thewritingcafe@plymouth.ac.uk>
+
+1-4 pm Monday to Friday.
+
+### Self-help quiz
+
+Learning Support have developed a self-help tool for students. It takes the form of a quiz which asks questions like ‘is your first language English?’ or ‘do you have financial worries?’ and, depending on the answers, directs students to the relevant support services. It takes about 5 minutes.
+
+Note that you must enroll yourself using the link at the top left of the Self-Help page:
+
+<https://dle.plymouth.ac.uk/course/view.php?id=19395>
+
+### Students’ Union Advice Centre (UPSU:advice)
+
+The Advice Centre is independent form the University and therefore can provide confidential and free advice and support to you whilst you are studying.
+
+The Advice Centre provides advice on the University’s regulations and procedures including appeals, complaints, Disciplinaries and the Study Wellbeing and Review policy; Student Finance England queries; Housing advice; Consumer issues and we are the only the organisation within the city that deals with how welfare benefits interact with student finance and can provide full benefit calculations for students.
+
+We are open all year round, although it is always best to check our website during vacation times as we may be running a reduced service. We are situated on the first floor of the SU building on the Plymouth Campus and offer advice through drop in sessions; appointments which can be booked at www.upsu.com/advice ; email and telephone.
+
+Telephone: 01752 588373 /0800 953 0155
+Email: advice@su.plymouth.ac.uk
+
+### Student Counselling Service {#counselling}
+
+The University offers individual counselling for students experiencing distress.
+
+For more information see: <https://www.plymouth.ac.uk/student-life/services/learning-gateway/counselling/consultation-with-a-counsellor>, call 01752 587676, or email studentcounselling@plymouth.ac.uk
+
+### Student Funding Unit
+
+> "Whether it’s advice on student loans and grants, information on bursaries and scholarships, help with extra financial support, EU funding or casework, our Student Funding team can advise you on all aspects of student funding. For tips and advice, our managing your money pages are packed with ideas on how to make your student budget go further."
+
+-   Opening hours are Monday – Friday, 9.30am – 4pm.
+-   4th Floor, Nancy Astor Building
+
+### Accommodation Office
+
+The university has a range of halls and managed accomodation, and the accomodation office can help with this and private accomodation.
+
+-   https://www.plymouth.ac.uk/student-life/services/accommodation
+-   01752 588644
+-   accommodation@plymouth.ac.uk
+
+### Disability Assist
+
+Disability Assist is part of Learning Support and Well-being and is are available to help with your study support requirements if you have a disability.
+
+-   <https://www.plymouth.ac.uk/student-life/services/learning-gateway/disability-and-dyslexia>
+-   01752 587676
+-   das@plymouth.ac.uk
+
+### Multi-Faith Chaplaincy
+
+-   01752 587760
+-   chaplaincy@plymouth.ac.uk
+
+### Medical Centre
+
+(Term-time only)
+
+-   Peverell Park Surgery and Beaumont Villa Surgeries
+-   01752 222341
+
+## Support for International students {#international-students}
+
+The International Student Advice (ISA) group provides specialist services and guidance if you're an international student studying at Plymouth University.
+
+See <https://www.plymouth.ac.uk/student-life/services/international-students/international-student-advisory-service> for more information, call 01752 587740 or email <international.advice@plymouth.ac.uk>.
+
+### A note on Tier 4 visas
+
+```{r child="common/tier4.Rmd"}
+
+```
+
+## PsySoc
+
+A message from the Chair:
+
+> “PsySoc was founded at the end of 2006 by students who felt that there was a real gap for a society where Psychology students from all years could meet each other, socialise and learn from each other’s experiences. It was in this mind that we decided that PsySoc would provide traditional social get-togethers, but also some academic activities such as guest lecturers, book sales, and support. PsySoc aims to provide an outlet for all students to get together and enjoy each other's company, be it in an academic or social setting, and our committee works hard to make sure that this happens. We do have a FaceBook site, and we will be making ourselves known throughout the year, so there is plenty of opportunity to join us in whatever capacity you feel is right for you, from helping out other students, attending guest lectures or just joining us on a social. However much you want to join in, PsySoc provides the opportunity to meet other psychology students from all years, and from all backgrounds.”
+
+<https://www.upsu.com/societies/6833/>
+
+## Campus Maps
+
+![Campus Map](../static/campusmap.png)

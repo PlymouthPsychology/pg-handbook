@@ -1,0 +1,19 @@
+bookdown::gitbook:
+  css: plymouth.css
+  number_sections: false
+  split_by: section
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Taught Postgraduate Handbook</a></li>
+
+bookdown::pdf_book:
+  number_sections: false
+  includes:
+    before_body: frontpage.tex
+    in_header: preamble.tex
+  latex_engine: xelatex
+  keep_tex: yes
+
+bookdown::epub_book: default

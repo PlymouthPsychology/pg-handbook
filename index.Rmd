@@ -1,0 +1,33 @@
+---
+title: "Taught Postgraduate Handbook"
+site: bookdown::bookdown_site
+cover-image: logo.png
+---
+
+```{r, include=F, echo=F}
+# bookdown::serve_book(daemon = TRUE, preview=FALSE)
+```
+
+# {-}
+
+```{r, out.width="300px", echo=F}
+if (knitr::is_html_output()){
+    knitr::include_graphics("logo.png")
+}
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=F, include=T, warning=F, messages=F)
+options(digits=2)
+
+# knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+
+library('tidyverse')
+library('tools')
+library('stringr')
+library('readxl')
+library('pander')
+
+YEAR <- 19
+
+```

@@ -1,0 +1,19 @@
+book_filename: prm-handbook.Rmd
+output_dir: docs
+delete_merged_file: true
+rmd_files: [
+        # main
+        "index.Rmd",
+        "intro.Rmd",
+        "programme.Rmd",
+        "you-said-we-did.Rmd",
+        "dates-deadlines.Rmd",
+        "communication.Rmd",
+        "learning-resources.Rmd",
+        "help-and-support.Rmd",
+        "assessment.Rmd",
+        "extenuating-circumstances.Rmd",
+        "academic-dishonesty.Rmd",
+        "the-project.Rmd",
+        "careers.Rmd"
+]
