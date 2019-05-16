@@ -3,8 +3,8 @@
 Good communication is essential for the programme to function well. There are 2
 key modes of communication used on the course:
 
--   [Face to face](#office-hours) meetings during staff office hours
--   [Email](#email)
+-   [Face to face](#office-hours) meetings during staff office hours.
+-   [Email](#email).
 
 #### I have a question, who should I speak to? {#i-have-a-question}
 
