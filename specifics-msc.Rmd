@@ -1,0 +1,28 @@
+# (PART) Programme-specific information
+
+# MSc
+
+TODO
+
+ADD MORE MSC SPECIFIC DETAILS HERE
+
+### Degree classifications {#msc-classification}
+
+Overall degree classifications, which are shown on your final degree transcript,
+are awarded based on the average mark across all modules, as follows:
+
+-   Distinction (>=70%, grades A- to A+)^[The project must also be awarded an A-
+    or better]
+-   Merit (60-69%, grades B- to B+)
+-   Pass (50%-59%, grades C- to C+)
+-   Fail (< 50%, grades D+ and below)
+
+### Progression and graduation
+
+All MSc students must complete 180 credits to graduate. All of the university's
+standard postgraduate regulations in relation to assessment and progression
+apply.
+
+Students on MSc programmes who fail to complete 180 credits _may_ be offered an
+alternative exit award (PgDip or PgCert) as outlined in the relevant programme
+specification.

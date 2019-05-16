@@ -4,16 +4,28 @@ delete_merged_file: true
 rmd_files: [
         # main
         "index.Rmd",
-        "intro.Rmd",
-        "programme.Rmd",
-        "you-said-we-did.Rmd",
-        "dates-deadlines.Rmd",
+        "programmes.Rmd",
+        "expectations.Rmd",
+        "our-commitment.Rmd",
         "communication.Rmd",
+        "things-going-wrong.Rmd",
+        
+        "module-choices.Rmd",
+        "assessment.Rmd",
+        "academic-dishonesty.Rmd",
+        "dates-deadlines.Rmd",
+        
         "learning-resources.Rmd",
         "help-and-support.Rmd",
-        "assessment.Rmd",
-        "extenuating-circumstances.Rmd",
-        "academic-dishonesty.Rmd",
+        "careers.Rmd",
+
+        # specifics
+        "specifics-msc.Rmd",
+        "specifics-mpsych.Rmd",
+        
+        "specifics-advanced.Rmd",
         "the-project.Rmd",
-        "careers.Rmd"
+        
+        "specifics-clinical.Rmd",
+ 
 ]

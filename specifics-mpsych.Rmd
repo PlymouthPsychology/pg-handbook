@@ -1,0 +1,28 @@
+# MPsych
+
+TODO
+
+ADD MORE MPSYCH SPECIFIC DETAILS HERE
+
+### Degree classifications {#mpsych-classification}
+
+Overall degree classifications, which are shown on your final degree transcript,
+are awarded based on the average mark across all modules, as follows:
+
+-   First (>=70%, grades A- to A+)
+-   2:1 (60-69%, grades B- to B+)
+-   2:2 (50%-59%, grades C- to C+)
+-   Fail (< 50%, grades D+ and below)
+
+### Progression and graduation
+
+All MPsych students in their final year (stage 5) must complete 120 credits to
+graduate with an MPsych award.
+
+For this final year of the degree, the university' standard postgraduate
+regulations in relation to assessment and progression apply.
+
+Students on the MPsych programmes who fail to complete 120 credits in their
+final year will be awarded a BSc degree, based on their work in stage 1-4. See
+the programme specification for more details, or speak to the [faculty
+administrator](#facultyadmin.
