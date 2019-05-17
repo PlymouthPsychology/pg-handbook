@@ -11,7 +11,18 @@ RECENTLY DOWNLOADED IT FROM THE SCHOOL.
 In these cases students will be notified, but the definitive source for deadline
 information is the DLE.
 
-XXX TODO ADD DEADLINES FROM WAM
+```{r, echo=F, include=F}
+library('tidyverse')
+deadlinesmsccp <- read_csv('https://wam.psy.plymouth.ac.uk/admin/reporting/programme/msc-cp/deadlines/?format=csv')
+```
+
+#### MSc CP
+
+```{r, echo=F}
+deadlinesmsccp %>%
+    select(due_date, module__code, name) %>%
+    pander::pander()
+```
 
 ![](static/students.png)
 
