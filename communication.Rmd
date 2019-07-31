@@ -60,7 +60,7 @@ don’t be offended if you drop by unannounced and we are busy.
 The university uses Microsoft Office 365 to provide email and many other
 services. These can all be accessed at:
 
--   <https://login.live.com>
+-   <https://webmail.plymouth.ac.uk>
 
 Login with your university email address, and computing account password.
 
