@@ -105,8 +105,8 @@ instructions on how to access the page at the time when module evaluations are
 required.
 
 Second, the University asks MSc students to complete an annual University-wide
-survey called the PTES. This allows the University to track the views of
-students about their course and the University facilities.
+survey. This allows the University to track the views of students about their 
+course and the University facilities.
 
 When you are asked to complete one of these evaluations, please take the time to
 do so. The information which can be obtained from them is vitally important in
