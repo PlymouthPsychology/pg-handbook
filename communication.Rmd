@@ -223,13 +223,3 @@ TODO ADD LISTS PEOPLE HERE FROM WAM... EVERYONE WHO IS ON MSC MODULE
 
 To find a member of staff you can use the staff office map below:
 ![](static/FindMyTutor.png)
-
-## Accessibility {#accessibility}
-
-This publication is also available in electronic format the university digital
-learning environment (DLE). All publications provided by the School of
-Psychology are similarly available. Direct any queries or concerns relating to
-accessibility to your Programme Coordinator, or the Faculty of Health and Human
-Sciences Student Reception on the fourth floor of the Rolle Building, telephone
-number 01752 585332
-([rollestudentreception@plymouth.ac.uk](mailto:rollestudentreception@plymouth.ac.uk)).
