@@ -166,8 +166,6 @@ School Office 84800 office.psy@plymouth.ac.uk
 
 Naomi Swales 84800 nswales@plymouth.ac.uk
 
-Lisa Clements 84801 lisa.clements@plymouth.ac.uk
-
 Gemma Hurrell 84801 gemma.hurrell@plymouth.ac.uk
 
 Charmain Dawe 84800 charmain.dawe@plymouth.ac.uk
@@ -200,7 +198,6 @@ Senior Technicians:
 -   Mark Cooper
 -   Lynne James
 -   Martyn Atkins
--   Nathan Flood
 
 In the first instance, contact the Psychology technicians by email to
 techoffice@psy.plymouth.ac.uk or phone 01752 (5)84853
