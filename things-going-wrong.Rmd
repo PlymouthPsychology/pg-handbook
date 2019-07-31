@@ -155,7 +155,7 @@ https://www.plymouth.ac.uk/student-life/your-studies/essential-information/regul
 Inevitably things go wrong from time to time. As a school we pride ourselves on
 listening to students and resolving problems promptly.
 
-> Our communications section describes how to ask questions and report problems
+> [Our communications section describes how to ask questions and report problems
 > on the course.](#i-have-a-question) Please follow these steps first.
 
 If you have not received a satisfactory answer, or have not recieved a response,
