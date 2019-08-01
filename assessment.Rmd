@@ -439,8 +439,12 @@ characteristics markers will be looking for:
 
 ### Referencing guidelines {#referencing}
 
-The school requires all coursework to conform to the APA style manual, version 6
-^[see https://owl.english.purdue.edu/owl/resource/560/01/]
+The school requires all coursework to conform to the APA style manual, version 6.
+^[see also https://owl.english.purdue.edu/owl/resource/560/01/]
+
+The library has prepared a useful guide for citing and referencing in APA style:
+
+- [Library APA referencing guide](https://plymouth.libguides.com/APA)
 
 **Writing in APA style is simple but highly valued by many markers. Failure to
 comply with the rules will cause you to recieve negative feedback and poorer
