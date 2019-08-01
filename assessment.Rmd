@@ -615,9 +615,9 @@ out what written feedback really means!_ section is particularly enlightening.
 
 ### When will I get feedback?
 
-Marked coursework will be returned via the DLE, within 20 days of submission. If
-there is a reason for a delay you will be informed; if you notice a delay,
-please inform the programme lead.
+Marked coursework will be returned via the DLE, within 20 working days of 
+submission. If there is a reason for a delay you will be informed; if you 
+notice a delay, please inform the programme lead.
 
 ## Results
 
