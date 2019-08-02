@@ -34,7 +34,7 @@ To find out more and register please follow the link:
 
 ## Academic and character references {#academic-references}
 
-Project supervisors and the PRM programme lead will both, normally, be happy to
+Project supervisors and the programme leads will both, normally, be happy to
 provide academic and character references for students applying for PhD funding
 or jobs.
 
@@ -72,9 +72,9 @@ generic character reference from-file.
 ## [Careers Advisory Service](https://www.plymouth.ac.uk/student-life/your-studies/academic-services/careers-and-employability)
 
 The University has an excellent careers service, with specific expertise in
-Psychology. Claire Guy is our point of contact (you will meet Claire in
-induction week) and she is able to offer individual advice session. DO take
-advantage of this, even if you have fairly concrete plans for next year - she is
+Psychology. Paul Gillard is our point of contact (you will meet Paul during the 
+programme) and he is able to offer individual advice session. DO take
+advantage of this, even if you have fairly concrete plans for next year - he is
 very helpful.
 
 -   <employability@plymouth.ac.uk>
@@ -82,7 +82,7 @@ very helpful.
 
 ## The British Psychological Society
 
-http://www.bps.org.uk/careers-education-training/careers-education-and-training
+https://careers.bps.org.uk/
 
 This site will tell you all about careers in psychology and courses and
 qualifications that will help you get the career you want.
