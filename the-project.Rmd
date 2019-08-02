@@ -44,7 +44,7 @@ complete are then:
 
 All student projects must be approved by the faculty ethical committee before
 data collection begins, using the online system at
-[http://www.psy.plymouth.ac.uk/admin4/mscethics/Login.aspx](http://www.psy.plymouth.ac.uk/admin4/mscethics/Login.aspx).
+[https://www.psy.plymouth.ac.uk/SOPEthics/Login](https://www.psy.plymouth.ac.uk/SOPEthics/Login).
 
 Where ethical approval is not required for a particular project, students must
 arrange for their supervisor to email the programme lead explaining why this is
