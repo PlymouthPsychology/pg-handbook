@@ -409,7 +409,7 @@ These data should be documented, such that other researchers could replicate
 your analysis if required.
 
 More guidance will be given throughout the project planning and project modules,
-but as a minimum we would expect MSc PRM students to submit:
+but as a minimum we would expect AP students to submit:
 
 -   Raw datafiles in csv or other appropriate format
 -   Code to combine/process data into an 'analysable data file' - normally a csv
