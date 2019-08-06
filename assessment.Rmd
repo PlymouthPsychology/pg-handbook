@@ -67,7 +67,7 @@ Before submitting work, you might like to use the following checklist.
 ### Coursework cover sheet {#cover-sheet}
 
 > The MSc coursework cover sheet is available here:
-> [masters_coursework_template.dotx](static/templates/masters_coursework_template_2018_v1.dotx)
+> [masters_coursework_template.docx](static/templates/masters coursework template 2019-20.docx)
 
 This coversheet includes a section in which you can write your reflections on
 your own work. You need to:
