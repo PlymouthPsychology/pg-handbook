@@ -35,8 +35,7 @@ participants.
 You must discuss this spending with your supervisor first. The relevant forms to
 complete are then:
 
--   TODO UPDATE THIS [AP project costing form (docx)](static/forms/MSc PRM
-    Project costing form.docx)
+-   [AP project costing form (docx)](static/forms/MSc MPsych AP Project costing form.docx)
 
 -   [Participant payment form (docx)](static/forms/Participant_Payment_Cash_Advance_Request_Form_Psychology_2013.docx)
 
