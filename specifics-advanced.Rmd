@@ -10,7 +10,15 @@ under the guidance of experts.
 
 ### Programme lead
 
-Chris Berry TODO add details
+###### Dr Chris Berry
+
+I have been a Lecturer at University of Plymouth, School of Psychology since 2012. 
+I am the lead for the MPsych and MSc Advanced Psychology programmes as well as 
+module leader for several modules. My research interests include human memory, 
+particularly the relation between memory and awareness. I use mathematical 
+modelling techniques to test different theories. Further details of my research 
+and teaching can be found [here](https://www.plymouth.ac.uk/staff/christopher-berry).
+
 
 ## Course aims
 
