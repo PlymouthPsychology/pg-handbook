@@ -17,7 +17,7 @@ a central point for all course information, and for you to
 
 You can login to the DLE at: <http://dle.plymouth.ac.uk>.
 
-![The DLE homepage](dlehome.png)
+![The DLE homepage](static/dlehome.png)
 
 Please make sure you check the following on the DLE as soon as possible:
 
