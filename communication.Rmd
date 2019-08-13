@@ -103,7 +103,57 @@ changes in time and location of classes or exams, will be e-mailed to you.
 
 ### MSc module leaders {#moduleleads}
 
-TODO ADD TABLE OF MODULE LEADERS
+---------------------------------------------------------------------------
+Module    Title                            Module Leader        Programme  
+--------- -------------------------------- -------------------- -----------
+PSYC750   Personal and professional        Chris Berry          AP / CP    
+          development                                                      
+
+PSYC751   Asking psychological             Chris Mitchell       AP / CP    
+          questions: Epistemology and                                      
+          strategy for formulating                                         
+          psychological research                                           
+
+PSYC752   Advanced research design for     Matt Roser           AP / CP    
+          psychology                                                       
+
+PSYC753   Data fluency: Processing,        Ben Whalley          AP / CP    
+          visualising and analysing data                                   
+          for reproducible research                                        
+
+PSYC754   Advanced techniques for          Jeremy Goslin        AP / CP    
+          psychological research                                           
+
+PSYC755   Advanced Interpretative          Ellie Lloyd          AP / CP    
+          methods                                                          
+
+PSYC756   Communicating psychological      Tim Hollins          AP / CP    
+          research                                                         
+
+PSYC757   Success in science               Judy Reed Edworthy   AP / CP    
+
+PSYC771   Issues in cognitive and brain    Giorgio Ganis        AP         
+          science                                                          
+
+PSYC774   Supporting behavior change       Jackie Andrade       AP / CP    
+
+PSYC781   Advanced psychological           Chris Berry          AP         
+          research project                                                 
+
+PSYC783   Applied clinical research        Alyson Norman        CP         
+
+PSYC791   Foundations of clinical          Alyson Norman        AP / CP    
+          psychology                                                       
+
+PSYC792   Understanding clinical           Peter Keohane        CP         
+          interventions: Principles of                                     
+          cognitive behavioural therapy                                    
+          and systemic family therapy                                      
+
+PSYC793   Core competencies for clinical   Maggie Brennan       CP         
+          practice in psychology                                           
+---------------------------------------------------------------------------
+
 
 ### The Student Advocate {#student-advocate}
 
