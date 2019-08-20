@@ -53,8 +53,3 @@ and listen to students about their experience on the course.
 
 -   [See more about the role of an external examiner here](https://www.heacademy.ac.uk/knowledge-hub/external-examining)
 
-Our external examiners produce a report of their findings each year, which are
-listed below:
-
--   [2017](ee/2017.pdf)
--   [2016](ee/2016.pdf)
