@@ -18,5 +18,6 @@ deploy:
     local-dir: docs
     target_branch: gh-pages
     verbose: true
+    fqdn: pghandbook.psy.plymouth.ac.uk
 
 warnings_are_errors: false
