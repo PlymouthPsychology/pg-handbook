@@ -1,7 +1,8 @@
 ## Research project
 
-The project counts for 60 credits out of a total of 180 for the MSc as a whole
-and is thus a very substantial piece of work.
+The project counts for 60 credits out of a total of 180 for the MSc AP as a 
+whole, or 60 out of 120 credits for the MPsych AP, and is thus a very 
+substantial piece of work.
 
 The ability of students to conduct and report a major piece of research work is
 of central importance. Students should be aware that the quality of the project
@@ -34,8 +35,7 @@ participants.
 You must discuss this spending with your supervisor first. The relevant forms to
 complete are then:
 
--   TODO UPDATE THIS [AP project costing form (docx)](static/forms/MSc PRM
-    Project costing form.docx)
+-   [AP project costing form (docx)](static/forms/MSc MPsych AP Project costing form.docx)
 
 -   [Participant payment form (docx)](static/forms/Participant_Payment_Cash_Advance_Request_Form_Psychology_2013.docx)
 
@@ -43,7 +43,7 @@ complete are then:
 
 All student projects must be approved by the faculty ethical committee before
 data collection begins, using the online system at
-[http://www.psy.plymouth.ac.uk/admin4/mscethics/Login.aspx](http://www.psy.plymouth.ac.uk/admin4/mscethics/Login.aspx).
+[https://www.psy.plymouth.ac.uk/SOPEthics/Login](https://www.psy.plymouth.ac.uk/SOPEthics/Login).
 
 Where ethical approval is not required for a particular project, students must
 arrange for their supervisor to email the programme lead explaining why this is
@@ -408,7 +408,7 @@ These data should be documented, such that other researchers could replicate
 your analysis if required.
 
 More guidance will be given throughout the project planning and project modules,
-but as a minimum we would expect MSc PRM students to submit:
+but as a minimum we would expect AP students to submit:
 
 -   Raw datafiles in csv or other appropriate format
 -   Code to combine/process data into an 'analysable data file' - normally a csv

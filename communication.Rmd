@@ -3,8 +3,8 @@
 Good communication is essential for the programme to function well. There are 2
 key modes of communication used on the course:
 
--   [Face to face](#office-hours) meetings during staff office hours
--   [Email](#email)
+-   [Face to face](#office-hours) meetings during staff office hours.
+-   [Email](#email).
 
 #### I have a question, who should I speak to? {#i-have-a-question}
 
@@ -60,7 +60,7 @@ don’t be offended if you drop by unannounced and we are busy.
 The university uses Microsoft Office 365 to provide email and many other
 services. These can all be accessed at:
 
--   <https://login.live.com>
+-   <https://webmail.plymouth.ac.uk>
 
 Login with your university email address, and computing account password.
 
@@ -103,7 +103,57 @@ changes in time and location of classes or exams, will be e-mailed to you.
 
 ### MSc module leaders {#moduleleads}
 
-TODO ADD TABLE OF MODULE LEADERS
+---------------------------------------------------------------------------
+Module    Title                            Module Leader        Programme  
+--------- -------------------------------- -------------------- -----------
+PSYC750   Personal and professional        Chris Berry          AP / CP    
+          development                                                      
+
+PSYC751   Asking psychological             Chris Mitchell       AP / CP    
+          questions: Epistemology and                                      
+          strategy for formulating                                         
+          psychological research                                           
+
+PSYC752   Advanced research design for     Matt Roser           AP / CP    
+          psychology                                                       
+
+PSYC753   Data fluency: Processing,        Ben Whalley          AP / CP    
+          visualising and analysing data                                   
+          for reproducible research                                        
+
+PSYC754   Advanced techniques for          Jeremy Goslin        AP / CP    
+          psychological research                                           
+
+PSYC755   Advanced Interpretative          Ellie Lloyd          AP / CP    
+          methods                                                          
+
+PSYC756   Communicating psychological      Tim Hollins          AP / CP    
+          research                                                         
+
+PSYC757   Success in science               Judy Reed Edworthy   AP / CP    
+
+PSYC771   Issues in cognitive and brain    Giorgio Ganis        AP         
+          science                                                          
+
+PSYC774   Supporting behavior change       Jackie Andrade       AP / CP    
+
+PSYC781   Advanced psychological           Chris Berry          AP         
+          research project                                                 
+
+PSYC783   Applied clinical research        Alyson Norman        CP         
+
+PSYC791   Foundations of clinical          Alyson Norman        AP / CP    
+          psychology                                                       
+
+PSYC792   Understanding clinical           Peter Keohane        CP         
+          interventions: Principles of                                     
+          cognitive behavioural therapy                                    
+          and systemic family therapy                                      
+
+PSYC793   Core competencies for clinical   Maggie Brennan       CP         
+          practice in psychology                                           
+---------------------------------------------------------------------------
+
 
 ### The Student Advocate {#student-advocate}
 
@@ -166,8 +216,6 @@ School Office 84800 office.psy@plymouth.ac.uk
 
 Naomi Swales 84800 nswales@plymouth.ac.uk
 
-Lisa Clements 84801 lisa.clements@plymouth.ac.uk
-
 Gemma Hurrell 84801 gemma.hurrell@plymouth.ac.uk
 
 Charmain Dawe 84800 charmain.dawe@plymouth.ac.uk
@@ -200,7 +248,6 @@ Senior Technicians:
 -   Mark Cooper
 -   Lynne James
 -   Martyn Atkins
--   Nathan Flood
 
 In the first instance, contact the Psychology technicians by email to
 techoffice@psy.plymouth.ac.uk or phone 01752 (5)84853
@@ -226,13 +273,3 @@ TODO ADD LISTS PEOPLE HERE FROM WAM... EVERYONE WHO IS ON MSC MODULE
 
 To find a member of staff you can use the staff office map below:
 ![](static/FindMyTutor.png)
-
-## Accessibility {#accessibility}
-
-This publication is also available in electronic format the university digital
-learning environment (DLE). All publications provided by the School of
-Psychology are similarly available. Direct any queries or concerns relating to
-accessibility to your Programme Coordinator, or the Faculty of Health and Human
-Sciences Student Reception on the fourth floor of the Rolle Building, telephone
-number 01752 585332
-([rollestudentreception@plymouth.ac.uk](mailto:rollestudentreception@plymouth.ac.uk)).

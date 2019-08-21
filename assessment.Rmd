@@ -67,7 +67,7 @@ Before submitting work, you might like to use the following checklist.
 ### Coursework cover sheet {#cover-sheet}
 
 > The MSc coursework cover sheet is available here:
-> [masters_coursework_template.dotx](static/templates/masters_coursework_template_2018_v1.dotx)
+> [masters_coursework_template.docx](static/templates/masters coursework template 2019-20.docx)
 
 This coversheet includes a section in which you can write your reflections on
 your own work. You need to:
@@ -439,8 +439,12 @@ characteristics markers will be looking for:
 
 ### Referencing guidelines {#referencing}
 
-The school requires all coursework to conform to the APA style manual, version 6
-^[see https://owl.english.purdue.edu/owl/resource/560/01/]
+The school requires all coursework to conform to the APA style manual, version 6.
+^[see also https://owl.english.purdue.edu/owl/resource/560/01/]
+
+The library has prepared a useful guide for citing and referencing in APA style:
+
+- [Library APA referencing guide](https://plymouth.libguides.com/APA)
 
 **Writing in APA style is simple but highly valued by many markers. Failure to
 comply with the rules will cause you to recieve negative feedback and poorer
@@ -611,9 +615,9 @@ out what written feedback really means!_ section is particularly enlightening.
 
 ### When will I get feedback?
 
-Marked coursework will be returned via the DLE, within 20 days of submission. If
-there is a reason for a delay you will be informed; if you notice a delay,
-please inform the programme lead.
+Marked coursework will be returned via the DLE, within 20 working days of 
+submission. If there is a reason for a delay you will be informed; if you 
+notice a delay, please inform the programme lead.
 
 ## Results
 
@@ -703,4 +707,4 @@ The strands of activity include:
 -   Supporting the University community
 
 For further details please visit the Plymouth Award website:
-<www.plymouth.ac.uk/plymouthaward>
+(www.plymouth.ac.uk/plymouthaward)

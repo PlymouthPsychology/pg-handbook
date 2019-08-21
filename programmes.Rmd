@@ -7,7 +7,7 @@ As shown in the table below, students on MSc awards study 180 credits through
 the year, whereas students on the MPsych study 120. Programmes are either in
 'Advanced Psychology' (AP) or 'Clinical Psychology' (CP).
 
-Students on the AP and CP awards will often share modules, and will The
+Students on the AP and CP awards will often share modules. The MSc
 Psychology coversion course is linked to the UG programme, and is not linked to
 the AP/CP awards.
 
@@ -53,8 +53,3 @@ and listen to students about their experience on the course.
 
 -   [See more about the role of an external examiner here](https://www.heacademy.ac.uk/knowledge-hub/external-examining)
 
-Our external examiners produce a report of their findings each year, which are
-listed below:
-
--   [2017](ee/2017.pdf)
--   [2016](ee/2016.pdf)
