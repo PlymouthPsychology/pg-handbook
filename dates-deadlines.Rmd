@@ -11,7 +11,12 @@ RECENTLY DOWNLOADED IT FROM THE SCHOOL.
 In these cases students will be notified, but the definitive source for deadline
 information is the DLE.
 
-#### MSc AP deadlines
+## MSc AP deadlines
+
+
+Note: these are currently provisional dates.
+
+<!-- TODO FIX -->
 
 ```{r, echo=F}
 jsonlite::fromJSON(readr::read_file(
@@ -26,7 +31,11 @@ jsonlite::fromJSON(readr::read_file(
   pander::pander(split.tables=Inf, justify="llc")
 ```
 
-#### MSc CP Deadlines
+## MSc CP Deadlines
+
+Note: these are currently provisional dates.
+
+<!-- TODO FIX -->
 
 ```{r}
 jsonlite::fromJSON(readr::read_file(
