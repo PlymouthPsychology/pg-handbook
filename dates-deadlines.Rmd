@@ -11,43 +11,30 @@ RECENTLY DOWNLOADED IT FROM THE SCHOOL.
 In these cases students will be notified, but the definitive source for deadline
 information is the DLE.
 
-## MSc AP deadlines
-
-
-Note: these are currently provisional dates.
-
-<!-- TODO FIX -->
-
-```{r, echo=F}
-jsonlite::fromJSON(readr::read_file(
-  "https://wam.psy.plymouth.ac.uk/admin/reporting/programme/msc-ap/deadlines/?format=json")
-  ) %>%
+```{r, echo=F, include=F}
+mkdeadlinetable <- function(url){
+  jsonlite::fromJSON(readr::read_file(url)) %>%
   mutate(
     `Hand in date` = ifelse(is.na(pinned_submission_date),
     estimated_submission_date, pinned_submission_date)
   ) %>%
-  select(module, assessment, `Hand in date`) %>%
+  mutate(status = ifelse(is.na(pinned_submission_date), "Provisional", "")) %>%
+  select(module, assessment, `Hand in date`, status) %>%
   set_names(., Hmisc::capitalize(names(.))) %>%
-  pander::pander(split.tables=Inf, justify="llc")
+  pander::pander(split.tables=Inf, justify="llcc")
+}
+```
+
+## MSc AP deadlines
+
+```{r, echo=F}
+mkdeadlinetable('https://wam.psy.plymouth.ac.uk/admin/reporting/programme/msc-cp/deadlines/?format=json')
 ```
 
 ## MSc CP Deadlines
 
-Note: these are currently provisional dates.
-
-<!-- TODO FIX -->
-
-```{r}
-jsonlite::fromJSON(readr::read_file(
-  "https://wam.psy.plymouth.ac.uk/admin/reporting/programme/msc-cp/deadlines/?format=json")
-  ) %>%
-  mutate(
-    `Hand in date` = ifelse(is.na(pinned_submission_date),
-    estimated_submission_date, pinned_submission_date)
-  ) %>%
-  select(module, assessment, `Hand in date`) %>%
-  set_names(., Hmisc::capitalize(names(.))) %>%
-  pander::pander(split.tables=Inf, justify="llc")
+```{r, echo=F}
+mkdeadlinetable('https://wam.psy.plymouth.ac.uk/admin/reporting/programme/msc-ap/deadlines/?format=json')
 ```
 
 ![](static/students.png)
