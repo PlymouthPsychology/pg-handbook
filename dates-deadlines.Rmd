@@ -11,17 +11,34 @@ RECENTLY DOWNLOADED IT FROM THE SCHOOL.
 In these cases students will be notified, but the definitive source for deadline
 information is the DLE.
 
-```{r, echo=F, include=F}
-library('tidyverse')
-deadlinesmsccp <- read_csv('https://wam.psy.plymouth.ac.uk/admin/reporting/programme/msc-cp/deadlines/?format=csv')
-```
-
-#### MSc CP
+#### MSc AP deadlines
 
 ```{r, echo=F}
-deadlinesmsccp %>%
-    select(due_date, module__code, name) %>%
-    pander::pander()
+jsonlite::fromJSON(readr::read_file(
+  "https://wam.psy.plymouth.ac.uk/admin/reporting/programme/msc-ap/deadlines/?format=json")
+  ) %>%
+  mutate(
+    `Hand in date` = ifelse(is.na(pinned_submission_date),
+    estimated_submission_date, pinned_submission_date)
+  ) %>%
+  select(module, assessment, `Hand in date`) %>%
+  set_names(., Hmisc::capitalize(names(.))) %>%
+  pander::pander(split.tables=Inf, justify="llc")
+```
+
+#### MSc CP Deadlines
+
+```{r}
+jsonlite::fromJSON(readr::read_file(
+  "https://wam.psy.plymouth.ac.uk/admin/reporting/programme/msc-cp/deadlines/?format=json")
+  ) %>%
+  mutate(
+    `Hand in date` = ifelse(is.na(pinned_submission_date),
+    estimated_submission_date, pinned_submission_date)
+  ) %>%
+  select(module, assessment, `Hand in date`) %>%
+  set_names(., Hmisc::capitalize(names(.))) %>%
+  pander::pander(split.tables=Inf, justify="llc")
 ```
 
 ![](static/students.png)
