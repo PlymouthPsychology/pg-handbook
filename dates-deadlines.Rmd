@@ -91,22 +91,4 @@ MSc students. It's worth noting here that:
 -   Vacation periods are not part of the semesters, although they interrupt
     them.
 
--   The research project does not fit neatly with the semester structure (as do
-    taught courses). Expected work patterns for the project are explained in the
-    separate project guidance notes.
-
-The calendar on the following page shows the academic year.
-
--   Pink = welcome week
--   Yellow = teaching weeks
--   Blue = revision weeks
--   Green = examination weeks
--   Bank holidays are outlined in bold
-
-The calendar also shows university week numbers, e.g. welcome week is week 8.
-Official timetables, module outlines, and other university documents may refer
-to these week numbers.
-
-TODO UPDATE THIS
-
-![](static/UniversityWeeks.png)
+![2019-2020 university calendar](static/19-20 University Week Calendar.pdf)
