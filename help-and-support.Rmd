@@ -52,7 +52,7 @@ Telephone: 01752 588373 /0800 953 0155 Email: advice@su.plymouth.ac.uk
 The University offers individual counselling for students experiencing distress.
 
 For more information see:
-<https://www.plymouth.ac.uk/student-life/services/learning-gateway/counselling/consultation-with-a-counsellor>,
+<https://www.plymouth.ac.uk/student-life/services/student-services/counselling/consultation-with-a-counsellor>,
 call 01752 587676, or email studentcounselling@plymouth.ac.uk
 
 ## Student Funding Unit
@@ -80,7 +80,7 @@ accomodation office can help with this and private accomodation.
 Disability Assist is part of Learning Support and Well-being and is are
 available to help with your study support requirements if you have a disability.
 
--   <https://www.plymouth.ac.uk/student-life/services/learning-gateway/disability-and-dyslexia>
+-   <https://www.plymouth.ac.uk/student-life/services/student-services/disability-and-dyslexia>
 -   01752 587676
 -   das@plymouth.ac.uk
 
