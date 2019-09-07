@@ -91,4 +91,4 @@ MSc students. It's worth noting here that:
 -   Vacation periods are not part of the semesters, although they interrupt
     them.
 
-![2019-2020 university calendar](static/19-20 University Week Calendar.pdf)
+![2019-2020 university calendar](static/19-20 University Week Calendar.png)
