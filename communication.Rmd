@@ -254,7 +254,7 @@ techoffice@psy.plymouth.ac.uk or phone 01752 (5)84853
 
 ## Finding staff {#finding-staff}
 
-To find your tutor or other members of, the may below may be helpful:
+To find your tutor or other members of, the map below may be helpful:
 
 \index{Staff offices} \index{Map of academic staff offices}
 [![Map of staff offices in Portland Square (PSQ) ](static/FindMyTutor_plain.png){#map-of-staff-offices} Click to enlarge...](static/FindMyTutor_plain.png)
@@ -266,10 +266,4 @@ https://github.com/PlymouthPsychology/floorplan
 ### Full list of academic Staff {#staff}
 
 Full details of all school staff are on the University website here:
-<https://goo.gl/cMmI5n>. Below we list the staff you are most likely to meet on
-the PRM, with links to their public webpages:
-
-TODO ADD LISTS PEOPLE HERE FROM WAM... EVERYONE WHO IS ON MSC MODULE
-
-To find a member of staff you can use the staff office map below:
-![](static/FindMyTutor.png)
+<https://www.plymouth.ac.uk/schools/psychology/academics>.
