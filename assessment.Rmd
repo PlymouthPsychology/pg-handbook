@@ -5,7 +5,7 @@
 Assessment is an important component of the programme, and feedback is vital for
 you to progress.
 
-All assessment on the PRM is based upon coursework, and we have no formal
+All assessment on the MSc and MPsych is based upon coursework, and we have no formal
 examinations. Coursework is tailored to the needs of individual modules. Modules
 may have several coursework components which make up the total assessment.
 
@@ -247,7 +247,7 @@ descriptors.
 
 There are 8 'levels' within the scheme used in the UK ^[See the
 [SEEC level descriptors document](http://www.bbk.ac.uk/linkinglondon/resources/apel-credit-resources/pub_Jan2003_SEEC_CreditLevelDescriptors.pdf)]
-and masters courses, including the PRM and final year of the MPsych, are at
+and masters courses, including the MSc and final year of the MPsych, are at
 level 7. These are organised under the following headings, and describe things
 that you (the learner) should demonstrate in your coursework and conduct on the
 course:
@@ -561,7 +561,7 @@ reasons. However, this is a mistake because the grade itself:
 
 _Only formative feedback provides oppportunities for action and learning._
 
-### Types of feedback to expect on the PRM
+### Types of feedback to expect
 
 We provide many different ways for students to get feedback on their work,
 including:
