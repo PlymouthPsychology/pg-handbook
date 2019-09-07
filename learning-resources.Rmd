@@ -43,8 +43,7 @@ learn more about in PSY556.
 
 The service is available at: <https://rstudio.plymouth.ac.uk>
 
-To access it you will need an account on this machine (unfortunately for 2018
-this will be a different account and password to your university login).
+To access it you will need an account.
 [Please contact the techoffice for details](#techoffice).
 
 ## The Library and Computing Resources
