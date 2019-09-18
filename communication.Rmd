@@ -21,8 +21,8 @@ suggest that you:
    one of your [student representatives](#student-reps)
 
 1. If your problem has not been resovled, contact the lead for postgraduate
-   programmes (Ben Whalley), the [student advocate](#student-advocate) (Patric
-   Bach), or the Associate Head for Teaching and Learning (Phil Gee).
+   programmes (Ben Whalley), the [student advocate](#student-advocate) (Alastair
+   Smith), or the Associate Head for Teaching and Learning (Jeremy Goslin).
 
 1. If your problem is still not resolved satisfactorily, you should consider
    making a complaint. See the [section on complaints](#complaints)
@@ -95,7 +95,7 @@ changes in time and location of classes or exams, will be e-mailed to you.
 
 -   [Module leads](#moduleleads)
 -   Programme leads (see [programme details](#programme-specifics))
--   [The student advocate](#studentadvocate)
+-   [The student advocate](#student-advocate)
 -   [Student representatives](#studentreps)
 -   [Faculty administrator](#facultyadmin)
 -   [School office](#schooloffice)
@@ -157,11 +157,12 @@ PSYC793   Core competencies for clinical   Maggie Brennan       CP
 
 ### The Student Advocate {#student-advocate}
 
-Dr Patric Bach is the Student Advocate. His role is to mentor the student reps
+Dr Alastair Smith is the Student Advocate. His role is to mentor the student reps
 and help them maintain excellent communication between you and the School.
-Patric works with reps across all stages and all programmes in Psychology,
-including the MPsych Advanced Psychology, BSc (Hons) Psychology and joint
-honours programmes, and our postgraduate Masters and DClinPsy programmes.
+Alastair works with reps across all stages and all programmes in Psychology,
+including the MPsych Advanced Psychology, MPsych Clinical Psychology, 
+BSc (Hons) Psychology and joint honours programmes, and our postgraduate Masters 
+and DClinPsy programmes.
 
 See the [having your say](#haveyoursay) section and ensure your voice is heard
 in the running of the course.
