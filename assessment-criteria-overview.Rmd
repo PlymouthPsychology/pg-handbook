@@ -9,8 +9,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo=F, include=T, cache=F, warning=F, messages=F)
 options(digits=2)
-library('dplyr')
-library('pander')
+library(tidyverse)
+library(pander)
 ```
 
 
@@ -245,5 +245,3 @@ The University has many complex rules and regulations which relate to postgradua
 The full University assessment regulations can be found at: https://goo.gl/jMYVTu
 
 However, if you have a question about the regulations it might be better to contact Karen Barnett in the first instance.
-
-

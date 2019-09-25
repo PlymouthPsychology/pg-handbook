@@ -1,1 +1,2 @@
-Rscript -e 'bookdown::serve_book(dir = ".", output_dir = "docs", preview = TRUE, in_session = TRUE, quiet = FALSE)'
+#! /usr/bin/env Rscript
+bookdown::serve_book( preview = TRUE, in_session = FALSE, quiet = FALSE)

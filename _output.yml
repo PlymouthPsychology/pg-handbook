@@ -2,6 +2,8 @@ bookdown::gitbook:
     css: plymouth.css
     number_sections: false
     split_by: section
+    includes:
+      in_header: analytics.html
     config:
         toc:
             collapse: section

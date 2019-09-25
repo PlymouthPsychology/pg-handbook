@@ -13,13 +13,13 @@ information is the DLE.
 
 ```{r, echo=F, include=F}
 mkdeadlinetable <- function(url){
-  jsonlite::fromJSON(readr::read_file(url)) %>%
+  jsonlite::fromJSON(readr::read_file(url), flatten=T) %>%
   mutate(
     `Hand in date` = ifelse(is.na(pinned_submission_date),
     estimated_submission_date, pinned_submission_date)
   ) %>%
   mutate(status = ifelse(is.na(pinned_submission_date), "Provisional", "")) %>%
-  select(module, assessment, `Hand in date`, status) %>%
+  select(assessment.module, assessment.name, `Hand in date`, status) %>%
   set_names(., Hmisc::capitalize(names(.))) %>%
   pander::pander(split.tables=Inf, justify="llcc")
 }
@@ -28,13 +28,13 @@ mkdeadlinetable <- function(url){
 ## MSc AP deadlines
 
 ```{r, echo=F}
-mkdeadlinetable('https://wam.psy.plymouth.ac.uk/admin/reporting/programme/msc-cp/deadlines/?format=json')
+mkdeadlinetable('https://wam.psy.plymouth.ac.uk/api/public/deadlines/?assessment__module__programmes__slug=msc-ap&format=json')
 ```
 
 ## MSc CP Deadlines
 
 ```{r, echo=F}
-mkdeadlinetable('https://wam.psy.plymouth.ac.uk/admin/reporting/programme/msc-ap/deadlines/?format=json')
+mkdeadlinetable('https://wam.psy.plymouth.ac.uk/api/public/deadlines/?assessment__module__programmes__slug=msc-cp&format=json')
 ```
 
 ![](static/students.png)
