@@ -19,9 +19,15 @@ mkdeadlinetable <- function(url){
     estimated_submission_date, pinned_submission_date)
   ) %>%
   mutate(status = ifelse(is.na(pinned_submission_date), "Provisional", "")) %>%
-  select(assessment.module, assessment.name, `Hand in date`, status) %>%
-  set_names(., Hmisc::capitalize(names(.))) %>%
-  pander::pander(split.tables=Inf, justify="llcc")
+  select(assessment.module,
+         assessment.name,
+         assessment.staff_responsible,
+         assessment.module_credit_percentage,
+         `Hand in date`,
+         status
+  ) %>%
+  set_names(., c("Module", "Name", "Staff responsible", "Module %", "Hand in date", "Status")) %>%
+  pander::pander(split.tables=Inf, justify="lllclc")
 }
 ```
 
@@ -30,6 +36,7 @@ mkdeadlinetable <- function(url){
 ```{r, echo=F}
 mkdeadlinetable('https://wam.psy.plymouth.ac.uk/api/public/deadlines/?assessment__module__programmes__slug=msc-ap&format=json')
 ```
+
 
 ## MSc CP Deadlines
 
@@ -70,22 +77,4 @@ MSc students. It's worth noting here that:
 -   Vacation periods are not part of the semesters, although they interrupt
     them.
 
--   The research project does not fit neatly with the semester structure (as do
-    taught courses). Expected work patterns for the project are explained in the
-    separate project guidance notes.
-
-The calendar on the following page shows the academic year.
-
--   Pink = welcome week
--   Yellow = teaching weeks
--   Blue = revision weeks
--   Green = examination weeks
--   Bank holidays are outlined in bold
-
-The calendar also shows university week numbers, e.g. welcome week is week 8.
-Official timetables, module outlines, and other university documents may refer
-to these week numbers.
-
-TODO UPDATE THIS
-
-![](static/UniversityWeeks.png)
+![2019-2020 university calendar](static/19-20 University Week Calendar.png)
