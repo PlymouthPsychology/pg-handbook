@@ -12,22 +12,24 @@ In these cases students will be notified, but the definitive source for deadline
 information is the DLE.
 
 ```{r, echo=F, include=F}
+library(tidyverse)
 mkdeadlinetable <- function(url){
+  #url = 'https://wam.psy.plymouth.ac.uk/api/public/deadlines/?assessment__module__programmes__slug=msc-ap&format=json'
+  #jsonlite::fromJSON(readr::read_file(url), flatten=T) %>%names
   jsonlite::fromJSON(readr::read_file(url), flatten=T) %>%
   mutate(
-    `Hand in date` = ifelse(is.na(pinned_submission_date),
-    estimated_submission_date, pinned_submission_date)
+    `Hand in date` = submission_date
   ) %>%
-  mutate(status = ifelse(is.na(pinned_submission_date), "Provisional", "")) %>%
   select(assessment.module,
          assessment.name,
          assessment.staff_responsible,
          assessment.module_credit_percentage,
-         `Hand in date`,
-         status
+         `Hand in date`
   ) %>%
-  set_names(., c("Module", "Name", "Staff responsible", "Module %", "Hand in date", "Status")) %>%
-  pander::pander(split.tables=Inf, justify="lllclc")
+  arrange(assessment.module, `Hand in date`) %>%
+  mutate(assessment.module_credit_percentage=ifelse(assessment.module_credit_percentage==0, "P/F", as.character(assessment.module_credit_percentage))) %>%
+  set_names(., c("Module", "Name", "Staff responsible", "Module %", "Hand in date")) %>%
+  pander::pander(split.tables=Inf, justify="lllcl")
 }
 ```
 
