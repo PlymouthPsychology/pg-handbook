@@ -13,9 +13,10 @@ information is the DLE.
 
 ```{r, echo=F, include=F}
 library(tidyverse)
+library(lubridate)
 mkdeadlinetable <- function(url){
   #url = 'https://wam.psy.plymouth.ac.uk/api/public/deadlines/?assessment__module__programmes__slug=msc-ap&format=json'
-  #jsonlite::fromJSON(readr::read_file(url), flatten=T) %>%names
+  #jsonlite::fromJSON(readr::read_file(url), flatten=T) %>%glimpse
   jsonlite::fromJSON(readr::read_file(url), flatten=T) %>%
   mutate(
     `Hand in date` = submission_date
@@ -24,12 +25,17 @@ mkdeadlinetable <- function(url){
          assessment.name,
          assessment.staff_responsible,
          assessment.module_credit_percentage,
-         `Hand in date`
+         `Hand in date`,
+         calculated_return_date
   ) %>%
   arrange(assessment.module, `Hand in date`) %>%
   mutate(assessment.module_credit_percentage=ifelse(assessment.module_credit_percentage==0, "P/F", as.character(assessment.module_credit_percentage))) %>%
-  set_names(., c("Module", "Name", "Staff responsible", "Module %", "Hand in date")) %>%
-  pander::pander(split.tables=Inf, justify="lllcl")
+  mutate(
+    `Hand in date` = format(ymd(`Hand in date`), format="%d %B %Y"),
+    calculated_return_date = format(ymd(calculated_return_date), format="%d %B %Y")
+  ) %>%
+  set_names(., c("Module", "Name", "Staff responsible", "Module %", "Hand in date", "Marks returned")) %>%
+  pander::pander(split.tables=Inf, justify="lllcll")
 }
 ```
 
