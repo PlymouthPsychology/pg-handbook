@@ -23,7 +23,6 @@ mkdeadlinetable <- function(url){
   ) %>%
   select(assessment.module,
          assessment.name,
-         assessment.staff_responsible,
          assessment.module_credit_percentage,
          `Hand in date`,
          calculated_return_date
@@ -34,8 +33,8 @@ mkdeadlinetable <- function(url){
     `Hand in date` = format(ymd(`Hand in date`), format="%d %B %Y"),
     calculated_return_date = format(ymd(calculated_return_date), format="%d %B %Y")
   ) %>%
-  set_names(., c("Module", "Name", "Staff responsible", "Module %", "Hand in date", "Marks returned")) %>%
-  pander::pander(split.tables=Inf, justify="lllcll")
+  set_names(., c("Module", "Name", "Module %", "Hand in date", "Marks returned")) %>%
+  pander::pander(split.tables=Inf, justify="llcll")
 }
 ```
 
