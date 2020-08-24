@@ -22,7 +22,7 @@ of staff of the School, not just those teaching on the programme.
 
 AP students are given 40 points within our research participation pool. More
 information (user guides) is available here:
-http://www.psy.plymouth.ac.uk/home/Stage5/
+http://www.psy.plymouth.ac.uk/
 
 [![](static/human_subjects_2x.png){.xkcd}](static/ human_subjects_2x.png)
 
