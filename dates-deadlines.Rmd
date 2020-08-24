@@ -73,7 +73,7 @@ _This is very important because module registrations on the DLE are used for
 group-emails and notifications, and so you may miss important info if your
 registrations are incorrect._
 
-## The Academic year `r params$academic_year`
+## The Academic year 2020-21
 
 The University year is organised by week numbers which are assigned primarily
 for the purposes of undergraduate teaching and so can sometimes be confusing for
