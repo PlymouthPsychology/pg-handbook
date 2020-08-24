@@ -27,6 +27,8 @@ rmd_files: [
         "the-project.Rmd",
         
         "specifics-clinical.Rmd",
-        "the-clinical-project.Rmd"
+        "the-clinical-project.Rmd",
+        
+        "accessibility.Rmd"
  
 ]
