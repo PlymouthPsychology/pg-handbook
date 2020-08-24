@@ -3,7 +3,7 @@ title: 'Taught PG Handbook<br>Psychology<br> `r params$academic_year`'
 site: bookdown::bookdown_site
 cover-image: logo.png
 params:
-    year: 19
+    year: 20
     academic_year: '2020-21'
 ---
 
