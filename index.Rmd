@@ -4,7 +4,7 @@ site: bookdown::bookdown_site
 cover-image: logo.png
 params:
     year: 19
-    academic_year: '2019-20'
+    academic_year: '2020-21'
 ---
 
 ```{r, include=F, echo=F}
