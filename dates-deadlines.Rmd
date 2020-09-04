@@ -23,32 +23,32 @@ mkdeadlinetable <- function(url){
   ) %>%
   select(assessment.module,
          assessment.name,
-         assessment.module_credit_percentage,
          `Hand in date`,
          calculated_return_date
   ) %>%
   arrange(assessment.module, `Hand in date`) %>%
-  mutate(assessment.module_credit_percentage=ifelse(assessment.module_credit_percentage==0, "P/F", as.character(assessment.module_credit_percentage))) %>%
   mutate(
     `Hand in date` = format(ymd(`Hand in date`), format="%d %B %Y"),
     calculated_return_date = format(ymd(calculated_return_date), format="%d %B %Y")
   ) %>%
-  set_names(., c("Module", "Name", "Module %", "Hand in date", "Marks returned")) %>%
-  pander::pander(split.tables=Inf, justify="llcll")
+  set_names(., c("Module", "Name", "Hand in date", "Marks returned")) %>%
+  pander::pander(split.tables=Inf, justify="llll")
+  
 }
+
 ```
 
 ## MSc AP deadlines
 
 ```{r, echo=F}
-mkdeadlinetable('https://wam.psy.plymouth.ac.uk/api/public/deadlines/?assessment__module__programmes__slug=msc-ap&format=json')
+mkdeadlinetable('https://wam.psy.plymouth.ac.uk/api/public/deadlines/?module_delivery__module__module_stage_mappings__stage__programme__slug=msc-ap&format=json')
 ```
 
 
 ## MSc CP Deadlines
 
 ```{r, echo=F}
-mkdeadlinetable('https://wam.psy.plymouth.ac.uk/api/public/deadlines/?assessment__module__programmes__slug=msc-cp&format=json')
+mkdeadlinetable('https://wam.psy.plymouth.ac.uk/api/public/deadlines/?module_delivery__module__module_stage_mappings__stage__programme__slug=msc-cp&format=json')
 ```
 
 ![](static/students.png)
