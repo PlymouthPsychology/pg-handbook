@@ -357,7 +357,7 @@ degree mark. _The pass mark for postgraduate courses is set at 50%_
 ```{r, include=T, echo=F}
 letters_ <- c('A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C', 'C-', 'D+', 'D', 'D-', 'F+', 'F', 'F-')
 lettergrades <- c(100, 88, 77, 68, 65, 62, 58, 55, 52, 48, 45, 42, 38, 25, 15)
-data_frame(`Letter grade`=letters_, `%`=lettergrades) %>% pander
+tibble(`Letter grade`=letters_, `%`=lettergrades) %>% pander
 ```
 
 Our experience is that using categorical grades helps markers to remember to use
@@ -615,8 +615,8 @@ out what written feedback really means!_ section is particularly enlightening.
 
 ### When will I get feedback?
 
-Marked coursework will be returned via the DLE, within 20 working days of 
-submission. If there is a reason for a delay you will be informed; if you 
+Marked coursework will be returned via the DLE, within 20 working days of
+submission. If there is a reason for a delay you will be informed; if you
 notice a delay, please inform the programme lead.
 
 ## Results
