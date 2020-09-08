@@ -1,4 +1,4 @@
-book_filename: prm-handbook.Rmd
+book_filename: handbook.Rmd
 output_dir: docs
 delete_merged_file: true
 rmd_files: [
