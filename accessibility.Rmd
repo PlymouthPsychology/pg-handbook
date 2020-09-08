@@ -1,8 +1,7 @@
----
-title: "accessibility"
-output: html_document
----
+
+
+# Accessibility
 
 Direct any queries or concerns relating to accessibility
-to your Programme Leader, or the Faculty of Health Student Reception 
+to your Programme Leader, or the Faculty of Health Student Reception
 on the fourth floor of the Rolle Building.

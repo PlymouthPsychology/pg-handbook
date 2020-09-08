@@ -1,7 +1,7 @@
 bookdown::gitbook:
     css: plymouth.css
     number_sections: false
-    split_by: none
+    split_by: chapter+number
     includes:
       in_header: analytics.html
     config:
