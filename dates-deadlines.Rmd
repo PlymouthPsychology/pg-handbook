@@ -4,12 +4,11 @@
 
 \index{Deadlines}
 
-PLEASE NOTE THAT DEADLINES MAY BE CHANGED DURING THE YEAR IN THE CASE OF ERRORS
-OR OTHER UNFORSEEN CIRCUMSTANCES. DO NOT RELY ON THIS PAGE UNLESS YOU HAVE
-RECENTLY DOWNLOADED IT FROM THE SCHOOL.
+Assessments must by submitted to the appropriate submission link on the relevant
+DLE module page by 12 noon on the day of the deadline.
 
-In these cases students will be notified, but the definitive source for deadline
-information is the DLE.
+In the unlikely event of revisions to deadlines, these will be sent by email and 
+the list of deadlines will be updated. 
 
 ```{r, echo=F, include=F}
 library(tidyverse)
