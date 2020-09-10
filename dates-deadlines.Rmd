@@ -84,3 +84,6 @@ MSc students. It's worth noting here that:
     them.
 
 ![2020-2021 university calendar](static/20-21 University Week Calendar.png)
+
+
+.
