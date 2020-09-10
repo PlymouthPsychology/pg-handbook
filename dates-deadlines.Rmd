@@ -10,6 +10,8 @@ DLE module page by 12 noon on the day of the deadline.
 In the unlikely event of revisions to deadlines, these will be sent by email and 
 the list of deadlines will be updated. 
 
+<!--
+
 ```{r, echo=F, include=F}
 library(tidyverse)
 library(lubridate)
@@ -58,6 +60,8 @@ mkdeadlinetable('https://wam.psy.plymouth.ac.uk/api/public/deadlines/?module_del
 ```
 
 ![](static/students.png)
+
+-->
 
 ## Timetables {#timetable}
 
