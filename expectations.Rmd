@@ -30,6 +30,17 @@ the section on [extenuating circumstances](#excircs) below (page
 \pageref{excircs}). You should also discuss these circumstances with the
 programme coordinator.
 
+###### Recording of sessions
+
+Lecture-style sessions will be recorded and made available on the DLE. Other 
+sessions with portions that lend themselves well to being recorded will 
+also be made available. By attending the lectures and workshops, you consent to 
+being recorded. Note that it will not always be possible or appropriate to make some 
+sections of sessions available as recordings (e.g., those with group discussions 
+containing sensitive material). Note also that the lecturer who delivers the session is 
+responsible for ensuring that the recording is available on the DLE, but it can 
+sometimes take several hours or longer to appear if the central server is busy.
+
 ###### Attendance monitoring
 
 \index{Attendance monitoring}
@@ -37,7 +48,8 @@ programme coordinator.
 The University is currently initiating a policy of monitoring attendance on all
 taught undergraduate and postgraduate courses. Details of this will be finalised
 during the year, but it is possible that attendance will be monitored in
-selected lectures and workshops throughout the year
+selected lectures and workshops throughout the year. Your attendance at each 
+online lecture may be automatically logged on our attendance monitoring system.
 
 The University also has specific policies on attendance and engagement for
 overseas students, and those with Tier 4 visa requirements.^[More information
