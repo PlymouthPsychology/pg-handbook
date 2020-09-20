@@ -42,7 +42,7 @@ mkdeadlinetable <- function(url){
 
 ```
 
-## MSc AP deadlines
+## AP deadlines
 
 Please note that the dissertation dates for PSYC781 and PSYC783 are provisional (subject to faculty approval).
 
@@ -51,7 +51,7 @@ mkdeadlinetable('https://wam.psy.plymouth.ac.uk/api/public/deadlines/?module_del
 ```
 
 
-## MSc CP Deadlines
+## CP Deadlines
 
 Please note that the dissertation dates for PSYC781 and PSYC783 are provisional (subject to faculty approval).
 
