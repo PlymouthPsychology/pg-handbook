@@ -10,7 +10,7 @@ DLE module page by 12 noon on the day of the deadline.
 In the unlikely event of revisions to deadlines, these will be sent by email and 
 the list of deadlines will be updated. 
 
-<!--
+
 
 ```{r, echo=F, include=F}
 library(tidyverse)
@@ -59,9 +59,8 @@ Please note that the dissertation dates for PSYC781 and PSYC783 are provisional 
 mkdeadlinetable('https://wam.psy.plymouth.ac.uk/api/public/deadlines/?module_delivery__module__module_stage_mappings__stage__programme__slug=msc-cp&format=json')
 ```
 
-![](static/students.png)
 
--->
+
 
 ## Timetables {#timetable}
 
