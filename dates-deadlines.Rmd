@@ -28,7 +28,7 @@ mkdeadlinetable <- function(url){
          calculated_return_date,
          assessment.credit_weight
   ) %>%
-  arrange(assessment.module, `Hand in date`) %>%
+  arrange( `Hand in date`, assessment.module) %>%
   mutate(
     `Hand in date` = format(ymd(`Hand in date`), format="%d %B %Y"),
     calculated_return_date = format(ymd(calculated_return_date), format="%d %B %Y")
